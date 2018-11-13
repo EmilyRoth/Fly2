@@ -44,4 +44,13 @@
         app:layout_constraintStart_toEndOf="@+id/textView"
         app:layout_constraintTop_toBottomOf="@+id/airport1input" />
 
+    <Button
+        android:id="@+id/btnToDatePicker"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Next"
+        tools:layout_editor_absoluteX="268dp"
+        tools:layout_editor_absoluteY="347dp"
+        />
+
 </android.support.constraint.ConstraintLayout>
